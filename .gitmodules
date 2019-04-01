@@ -1,0 +1,3 @@
+[submodule "node-circle-gke"]
+	path = node-circle-gke
+	url = https://github.com/SvanBoxel/node-circle-gke.git
